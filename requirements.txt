@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+scalar-fastapi
+pydantic
